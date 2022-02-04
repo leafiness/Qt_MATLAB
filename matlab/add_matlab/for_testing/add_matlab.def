@@ -1,0 +1,8 @@
+LIBRARY add_matlab
+EXPORTS
+add_matlabInitialize
+add_matlabInitializeWithHandlers
+add_matlabTerminate
+add_matlabPrintStackTrace
+mlxAdd_matlab
+
